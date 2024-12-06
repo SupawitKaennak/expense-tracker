@@ -14,8 +14,9 @@ npx expo start<br>
 #clear cache<br>
 npm expo start -c<br>   
 
-![512f8db2-f871-43b2-86a4-322b2bd23910](https://github.com/user-attachments/assets/566fe773-ab9b-4cb8-9cfd-ff7284fc6e8e)
-![image](https://github.com/user-attachments/assets/898b0633-5ff3-4187-8474-4e1a9ddd7f8f)
+<img src="[URL ของรูปภาพ](https://github.com/user-attachments/assets/566fe773-ab9b-4cb8-9cfd-ff7284fc6e8e)" width="500" height="300">
+<img src="[URL ของรูปภาพ](https://github.com/user-attachments/assets/898b0633-5ff3-4187-8474-4e1a9ddd7f8f)" width="500" height="300">
+
 
 
 IF Error:<br>
