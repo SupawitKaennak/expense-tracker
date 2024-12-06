@@ -15,9 +15,9 @@ npx expo start<br>
 npm expo start -c<br>   
 
 
-<img src="https://github.com/user-attachments/assets/f65832a6-5a39-4016-8f79-c68e393c9f45" width="50" height="300">
+<img src="https://github.com/user-attachments/assets/f65832a6-5a39-4016-8f79-c68e393c9f45" width="150" height="300">
 
-<img src="https://github.com/user-attachments/assets/21a53c44-02d7-40d1-b955-12783abeceb0" width="50" height="300">
+<img src="https://github.com/user-attachments/assets/21a53c44-02d7-40d1-b955-12783abeceb0" width="150" height="300">
 
 
 
