@@ -1,4 +1,4 @@
-#This App is a basic Income and Expense APP<br>
+#This App is a basic Income and Expense APP Using typscript and expo.<br>
 
 reference : https://docs.expo.dev/tutorial/create-your-first-app/<br>
 
