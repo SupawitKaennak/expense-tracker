@@ -14,8 +14,8 @@ npx expo start<br>
 #clear cache<br>
 npm expo start -c<br>   
 
-<img src="[URL ของรูปภาพ](https://github.com/user-attachments/assets/566fe773-ab9b-4cb8-9cfd-ff7284fc6e8e)" width="500" height="300">
-<img src="[URL ของรูปภาพ](https://github.com/user-attachments/assets/898b0633-5ff3-4187-8474-4e1a9ddd7f8f)" width="500" height="300">
+<img src="[https://github.com/user-attachments/assets/566fe773-ab9b-4cb8-9cfd-ff7284fc6e8e]" width="500" height="300">
+<img src="[https://github.com/user-attachments/assets/898b0633-5ff3-4187-8474-4e1a9ddd7f8f]" width="500" height="300">
 
 
 
