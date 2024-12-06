@@ -14,6 +14,9 @@ npx expo start<br>
 #clear cache<br>
 npm expo start -c<br>   
 
+![Uploading 94108337-478c-43fd-89b5-3ee83968d611.jpg…]()
+![Uploading 512f8db2-f871-43b2-86a4-322b2bd23910.jpg…]()
+
 IF Error:<br>
 npx react-native start --reset-cache<br>
 
