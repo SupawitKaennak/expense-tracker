@@ -12,14 +12,12 @@ npm install @react-native-picker/picker<br>
 
 #TO RUN APP:<br>
 npx expo start<br>
-#clear cache<br>
+
+#start with clear cache<br>
 npm expo start -c<br>   
 
-
 <img src="https://github.com/user-attachments/assets/f65832a6-5a39-4016-8f79-c68e393c9f45" width="200" height="450">
-
 <img src="https://github.com/user-attachments/assets/21a53c44-02d7-40d1-b955-12783abeceb0" width="200" height="450">
-
 
 
 #IF Error:<br>
