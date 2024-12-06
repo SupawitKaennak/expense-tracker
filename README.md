@@ -11,6 +11,8 @@ npm install @react-native-picker/picker<br>
 
 TO RUN APP:<br>
 npx expo start<br>
+#clear cache<br>
+npm expo start -c<br>   
 
 IF Error:<br>
 npx react-native start --reset-cache<br>
