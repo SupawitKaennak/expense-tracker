@@ -1,5 +1,7 @@
 #This App is a basic Income and Expense APP<br>
 
+reference : https://docs.expo.dev/tutorial/create-your-first-app/<br>
+
 #Requirement module:<br>
 
 npm install @react-navigation/native<br>
