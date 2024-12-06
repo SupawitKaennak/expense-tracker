@@ -14,8 +14,10 @@ npx expo start<br>
 #clear cache<br>
 npm expo start -c<br>   
 
-<img src="[https://github.com/user-attachments/assets/566fe773-ab9b-4cb8-9cfd-ff7284fc6e8e]" width="500" height="300">
-<img src="[https://github.com/user-attachments/assets/898b0633-5ff3-4187-8474-4e1a9ddd7f8f]" width="500" height="300">
+![image](https://github.com/user-attachments/assets/f65832a6-5a39-4016-8f79-c68e393c9f45)
+<img src="https://github.com/user-attachments/assets/f65832a6-5a39-4016-8f79-c68e393c9f45" width="500" height="300">
+![image](https://github.com/user-attachments/assets/21a53c44-02d7-40d1-b955-12783abeceb0)
+<img src="https://github.com/user-attachments/assets/21a53c44-02d7-40d1-b955-12783abeceb0" width="500" height="300">
 
 
 
