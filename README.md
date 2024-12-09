@@ -14,6 +14,6 @@ npx expo start <br>
 #Start with clear cache<br>
 npx expo start -c
 
-<img src="https://github.com/user-attachments/assets/db2ca91d-4e45-44dd-86e4-5a1b766ed09c" width="250" height="550">
+<img src="https://github.com/user-attachments/assets/bd3e5a9a-0e5c-4ff6-8b35-f0e83e98a62b" width="250" height="550">
 <img src="https://github.com/user-attachments/assets/84a196b6-0ddf-4394-b820-0049b765dbf9" width="250" height="550">
 
