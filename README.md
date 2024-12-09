@@ -8,6 +8,8 @@ npm install @react-navigation/stack<br>
 npm install react-native-paper<br>
 npm install date-fns<br>
 npm install @react-native-picker/picker<br>
+npm install react-native-chart-kit react-native-svg<br>
+
 
 #Start APP:<br>
 npx expo start <br>
