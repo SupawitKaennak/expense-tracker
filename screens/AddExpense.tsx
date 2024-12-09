@@ -24,6 +24,12 @@ const AddExpense = () => {
   const route = useRoute();
 
   const handleSubmit = () => {
+    // ตรวจสอบว่าข้อมูลที่จำเป็นถูกกรอกหรือไม่
+    if (!name || !amount || !date) {
+      alert('please fill all fields');
+      return; // ออกจากฟังก์ชันหากข้อมูลไม่ครบ
+    }
+  
     const newTransaction: Transaction = {
       id: Math.random().toString(),
       name,
@@ -31,12 +37,12 @@ const AddExpense = () => {
       type,
       date: new Date(date),
     };
-
+  
     // ส่งข้อมูลกลับไปยังหน้า Home ผ่าน params
     if (route.params && typeof route.params.onAddTransaction === 'function') {
       route.params.onAddTransaction(newTransaction);
     }
-
+  
     // กลับไปยังหน้า Home
     navigation.goBack();
   };
