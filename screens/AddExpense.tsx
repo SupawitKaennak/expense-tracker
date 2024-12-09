@@ -26,7 +26,7 @@ const AddExpense = () => {
   const handleSubmit = () => {
     // ตรวจสอบว่าข้อมูลที่จำเป็นถูกกรอกหรือไม่
     if (!name || !amount || !date) {
-      alert('please fill all fields');
+      alert('please fill all field');
       return; // ออกจากฟังก์ชันหากข้อมูลไม่ครบ
     }
   
