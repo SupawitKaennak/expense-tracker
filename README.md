@@ -18,7 +18,11 @@ npm install react-native-chart-kit react-native-svg<br>
 #Start APP:<br>
 npx expo start <br>
 #Start with clear cache<br>
-npx expo start -c
+npx expo start -c <br>
+
+Use Expo Mobile App to scan QRcode<br>
+![image](https://github.com/user-attachments/assets/5b3649cb-b722-48f1-8db6-42b4afa62057)<br>
+
 
 <img src="https://github.com/user-attachments/assets/bd3e5a9a-0e5c-4ff6-8b35-f0e83e98a62b" width="250" height="550">
 <img src="https://github.com/user-attachments/assets/84a196b6-0ddf-4394-b820-0049b765dbf9" width="250" height="550">
