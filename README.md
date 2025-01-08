@@ -2,6 +2,8 @@
 
 refer: https://docs.expo.dev/tutorial/create-your-first-app/<br>
 
+Requirement App: Expo download in app store
+
 module requirement:<br>
 npm install @react-navigation/native<br>
 npm install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated react-native-get-random-values<br>
